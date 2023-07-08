@@ -1,2 +1,2 @@
-# spinning-wheel
+# FFWheel
 Created with CodeSandbox
